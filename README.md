@@ -1,50 +1,136 @@
 <div align="center">
 
-# 👋 Hey, I'm Govind Goel
+# Govind Goel
 
-### AI / GenAI Engineer · Multi-Agent Systems · RAG & GraphRAG · Backend Development
+### AI / GenAI Engineer · Multi-Agent Systems · RAG & GraphRAG · Backend
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=800&lines=Building+intelligent+systems+with+LLMs+and+agents;RAG+%7C+GraphRAG+%7C+CRAG+%7C+LangGraph;Python+%7C+FastAPI+%7C+Neo4j+%7C+Vector+Databases;Turning+AI+research+into+working+applications)](https://git.io/typing-svg)
+*I build LLM systems that show their evidence, verify their answers, and ship behind real APIs.*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=800&lines=Grounded+LLM+applications%2C+not+just+chatbots;RAG+%7C+GraphRAG+%7C+CRAG+%7C+LangGraph;Python+%7C+FastAPI+%7C+Neo4j+%7C+Vector+Databases;From+AI+research+to+working+backend+systems)](https://git.io/typing-svg)
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GovindGoel1401)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goyalgovind1401@gmail.com)
 [![GATE](https://img.shields.io/badge/GATE-Qualified_2026-0B7285?style=for-the-badge)](#-achievements--certifications)
+[![AWS AI](https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](#-achievements--certifications)
 [![Profile Views](https://komarev.com/ghpvc/?username=GovindGoel1401&color=00b4d8&style=for-the-badge&label=Profile+Views)](https://github.com/GovindGoel1401)
+
+**[Projects](#-featured-projects) · [Skills](#%EF%B8%8F-tech-stack) · [Experience](#-experience) · [Contact](#-lets-build-something-reliable)**
 
 </div>
 
 ---
 
-## `$ whoami`
+## ⚡ At a Glance
 
-```yaml
-name: Govind Goel
-role: AI / GenAI Engineer | Backend Developer
-education: B.Tech, KIET Group of Institutions (2023–Present)
-cgpa: 8.3 / 10
-location: India
-experience:
-  - Backend and AI Intern @ Techsage (Nov 2025 – Jan 2026)
-focus:
-  - Retrieval-Augmented Generation (RAG, GraphRAG, CRAG)
-  - Multi-Agent AI Workflows and LLM Orchestration
-  - Knowledge Graphs and Vector Search
-  - Backend APIs and AI System Design
-currently_exploring:
-  - Autonomous Software Engineering Agents
-  - Reliable and Context-Aware AI Applications
-certifications:
-  - AWS Certified Cloud Practitioner
-  - AWS Certified AI Practitioner
-```
+| | |
+|---|---|
+| 🧠 **What I do** | Design retrieval pipelines, multi-agent workflows, and backend APIs that make LLM output trustworthy |
+| 🔬 **Core ideas** | Hybrid vector + graph retrieval · corrective RAG · human-in-the-loop agents · stateful, resumable workflows |
+| 🎓 **Education** | B.Tech, KIET Group of Institutions · CGPA **8.3 / 10** (2023 – Present) |
+| 🏅 **Credentials** | GATE 2026 Qualified · AWS Certified Cloud Practitioner · AWS Certified AI Practitioner |
+| 💼 **Experience** | Backend & AI Intern @ Techsage (Nov 2025 – Jan 2026) |
+| 🔭 **Exploring** | Autonomous software-engineering agents · evaluation of GraphRAG/CRAG · AI observability |
 
-> I build AI applications that do more than generate answers. My work centers on **grounded retrieval, multi-agent reasoning, knowledge graphs, and backend services**—connecting LLMs with structured information and practical workflows.
+> **My thesis:** an LLM answer is only as useful as the evidence behind it. I focus on the layer around the model: retrieval that finds the right context, agents that know when to ask, verify, and correct, and backend services that turn it all into a product.
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🚀 Featured Projects
+
+### ⚖️ JurisMind AI: Legal Reasoning & Decision Intelligence
+
+> A multi-agent platform for legal document understanding, evidence analysis, research, and structured argumentation.
+
+**Stack:** `Python` `FastAPI` `LangGraph` `LLM APIs` `Vector Databases`
+
+```mermaid
+flowchart LR
+    A[Case Documents] --> B[Retrieval Router]
+    B -->|needs context| C[Vector Retrieval]
+    B -->|already sufficient| E
+    C --> D[Knowledge Context]
+    D --> E[Reasoning Agents]
+    E --> F[Evidence Analysis]
+    F --> G[Structured Legal Output]
+```
+
+- **Orchestrated** specialized reasoning agents (case interpretation, evidence analysis, response assembly) with **LangGraph**.
+- **Dynamic retrieval routing** skips unnecessary retrieval steps to cut redundant processing.
+- **Grounded outputs** by combining vector search with structured knowledge context.
+
+---
+
+### 🌿 Deepleaf: GraphRAG Plant Intelligence System
+
+> Semantic retrieval plus knowledge-graph reasoning for precise, explainable plant recommendations.
+
+**Stack:** `GraphRAG` `CRAG` `Neo4j` `Vector Databases` `Knowledge Graphs`
+
+```mermaid
+flowchart LR
+    Q[User Query] --> V[Vector Similarity Search]
+    Q --> G[Neo4j Graph Traversal]
+    V --> M[Context Fusion]
+    G --> M
+    M --> L[LLM Generation]
+    L --> C{CRAG Validation}
+    C -->|supported| R[Final Answer]
+    C -->|unsupported| X[Corrective Retrieval] --> M
+```
+
+- **Hybrid retrieval:** embeddings for semantic match, graph relationships for entity-level reasoning.
+- **Corrective RAG (CRAG)** validates and repairs answers to reduce unsupported claims.
+- 📈 **~20–25% improvement in response reliability** over the baseline pipeline.
+
+---
+
+### 🤖 Autonomous GenAI Software Engineering System
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GovindGoel1401/Autonomous-GenAI-Software-Engineering-System-Multi-Agent-AI-Platform-)
+
+> A multi-agent system that turns natural-language requirements into engineering specifications, built to grow into a full idea-to-deployment pipeline.
+
+**Stack:** `Node.js` `LangGraph` `Gemini API` `JavaScript` `State Checkpointing` `Redis`
+
+```mermaid
+flowchart LR
+    R[Requirement] --> PM[PM Agent]
+    PM -->|ambiguous| H[Human Clarification]
+    H --> PM
+    PM -->|clear| S[Structured Specification]
+    S -.-> AR[Architect]
+    AR -.-> CO[Coder]
+    CO -.-> RV[Reviewer]
+    RV -.-> DB[Debugger]
+    DB -.-> DP[Deploy]
+```
+
+<sub>Solid lines: implemented (Phase 1). Dotted lines: roadmap.</sub>
+
+- **Human-in-the-loop routing:** the graph asks clarifying questions before committing to a spec.
+- **Resumable execution** via checkpointing (in-memory or Redis) so interrupted runs can continue.
+- **Cost awareness** through Gemini token-usage tracking.
+- **Clean architecture:** agents communicate through shared graph state, not direct node-to-node calls.
+- **Tested:** graph-skeleton mock tests plus PM-Agent integration tests.
+
+---
+
+### ☁️ IBM Cloud Object Storage Q&A Assistant
+
+> Cloud-backed file storage with a conversational assistant for asking questions about stored documents.
+
+**Stack:** `IBM Cloud` `Cloud Object Storage` `IBM watsonx` `IAM`
+
+- Uploads and manages files in **IBM Cloud Object Storage** with a structured indexing workflow for discovery.
+- **watsonx chatbot** answers context-aware questions about stored files.
+- **IAM-based access control** protects cloud resources.
+- 🏆 Recognized as **Top Performer** in the IBM Cloud Virtual Internship.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -90,132 +176,39 @@ certifications:
 
 ## 💼 Experience
 
-### Techsage — Backend and AI Intern
+### Backend & AI Intern · Techsage
 `Nov 2025 – Jan 2026`
 
-- Built and tested backend features involving **API integration, database operations, and HTTP request handling** for internal applications.
-- Implemented introductory **RAG-based features**, including document retrieval and context-aware response generation.
-- Gained hands-on experience connecting backend systems with practical AI functionality.
-
----
-
-## 🚀 Featured Projects
-
-### ⚖️ JurisMind AI — Legal Reasoning & Decision Intelligence System
-
-> A multi-agent legal intelligence platform designed to support document understanding, evidence analysis, legal research, structured argumentation, and reasoned outputs.
-
-**Stack:** `Python` `FastAPI` `LangGraph` `LLM APIs` `Vector Databases`
-
-| Area | Engineering Approach |
-|---|---|
-| 🤖 Agent orchestration | Multi-agent reasoning workflow coordinated with LangGraph |
-| 🔎 Context retrieval | Dynamic retrieval routing to reduce unnecessary processing |
-| 🧠 Grounding | Vector retrieval combined with knowledge-based context |
-| ⚙️ Architecture | Workflow routing aimed at efficient, context-aware legal reasoning |
-
-**Highlights:**
-- Designed specialized reasoning steps for interpreting cases, analyzing evidence, and assembling informed responses.
-- Combined document retrieval and structured knowledge to make generated outputs more grounded.
-- Focused on scalable workflow design and reducing redundant retrieval steps.
-
----
-
-### 🌿 Deepleaf — GraphRAG-Based AI Plant Intelligence System
-
-> Plant intelligence system combining semantic retrieval with knowledge-graph reasoning to support context-aware recommendations.
-
-**Stack:** `GraphRAG` `CRAG` `Neo4j` `Vector Databases` `Knowledge Graphs`
-
-| Area | Engineering Approach |
-|---|---|
-| 🌐 Hybrid retrieval | Combines vector similarity with knowledge graph traversal |
-| 🧩 Context enrichment | Multi-stage retrieval blends embeddings with graph relationships |
-| ✅ Response correction | CRAG-based validation and correction pipeline |
-| 📈 Reliability | Resume reports **20–25% improvement** in response reliability |
-
-**Highlights:**
-- Built retrieval pipelines that use both semantic similarity and entity relationships.
-- Applied corrective retrieval steps to reduce unsupported model outputs.
-- Designed for more precise and explainable plant-related recommendations.
-
----
-
-### 🤖 Autonomous GenAI Software Engineering System — Multi-Agent AI Platform
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GovindGoel1401/Autonomous-GenAI-Software-Engineering-System-Multi-Agent-AI-Platform-)
-
-> An AI-driven software-development workflow intended to move from natural-language requirements toward specifications and, in later phases, implementation, review, debugging, and deployment.
-
-**Stack:** `Node.js` `LangGraph` `Gemini API` `JavaScript` `State Checkpointing` `Redis (optional)`
-
-| Area | Implementation / Status |
-|---|---|
-| 🧭 PM Agent | Converts requirements into structured project specifications — **Phase 1** |
-| 💬 Human-in-the-loop | Asks clarifying questions for ambiguous requirements |
-| 🔀 Graph workflow | Conditional LangGraph routing between PM Agent and human input |
-| 💾 Execution state | Checkpointing with memory or optional Redis persistence |
-| 🪙 Cost awareness | Gemini API token usage tracking |
-| 🧪 Tests | Graph-skeleton mock tests and PM-Agent integration test commands |
-
-**Engineering decisions:**
-- Shared graph state separates agent outputs from direct node-to-node calls.
-- Conditional routing enables requirement clarification before generating the specification.
-- Checkpoints are designed to support resuming interrupted execution.
-
-**Project status:** The repository README identifies **Phase 1 (Requirement → Specification)** as the current implementation. Architect, coder, reviewer, debugger, deploy agent, and complete dashboard integration are listed as subsequent phases—not claimed as finished.
-
----
-
-### ☁️ IBM Cloud Object Storage Q&A Assistant
-
-> Cloud-backed file storage and question-answering assistant using IBM Cloud services.
-
-**Stack:** `IBM Cloud` `Cloud Object Storage` `IBM watsonx` `IAM`
-
-| Area | Engineering Approach |
-|---|---|
-| 📁 File storage | Uploads and manages files in IBM Cloud Object Storage |
-| 💬 Q&A | Uses an IBM watsonx chatbot for context-aware file questions |
-| 🔐 Access control | IAM-based permissions for secure resource access |
-| 📚 Indexing | Structured indexing workflow to support file discovery |
-
-**Highlights:**
-- Integrated cloud storage and a conversational interface for document-focused questions.
-- Applied identity and access management concepts to protect cloud resources.
-
----
-
-## 🎓 Education
-
-**KIET Group of Institutions** — B.Tech  
-`2023 – Present` · **CGPA: 8.3 / 10**
-
-**Dehradun Public School** — Higher Secondary  
-`2022 – 2023` · **88.2%**
+- Built and tested backend features covering **API integration, database operations, and HTTP request handling** for internal applications.
+- Implemented **RAG-based features** (document retrieval and context-aware response generation), bridging backend services with working AI functionality.
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🎯 **GATE Qualified — 2026**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🤖 **AWS Certified AI Practitioner**
-- 🌟 **Top Performer — IBM Cloud Virtual Internship**
-- 📘 **Data Structures & Algorithms — Udemy**
+| | |
+|---|---|
+| 🎯 **GATE 2026** | Qualified |
+| ☁️ **AWS Certified Cloud Practitioner** | Cloud fundamentals |
+| 🤖 **AWS Certified AI Practitioner** | AI/ML and GenAI on AWS |
+| 🌟 **IBM Cloud Virtual Internship** | Top Performer |
+| 📘 **Data Structures & Algorithms** | Udemy |
 
 ---
 
-## 🧠 Engineering Philosophy
+## 🎓 Education
 
-```text
-"An LLM response is only as useful as the evidence behind it.
- Build retrieval that can find the right context.
- Build agents that know when to ask, verify, and correct.
- Build backend systems that turn those ideas into reliable products."
-```
+**KIET Group of Institutions**: B.Tech · `2023 – Present` · CGPA **8.3 / 10**
+**Dehradun Public School**: Higher Secondary · `2022 – 2023` · **88.2%**
 
-**Areas I enjoy working on:** knowledge-grounded generation · vector + graph retrieval · multi-agent orchestration · API integration · AI workflow reliability.
+---
+
+## 🧭 What I'm Working Toward
+
+- 🔄 Taking the **Autonomous Software Engineering** system beyond Phase 1: Architect, Coder, Reviewer, Debugger, and Deploy agents.
+- 📏 Building better **evaluation methods for GraphRAG / CRAG** pipelines.
+- 🤝 Deepening **multi-agent orchestration** and human-in-the-loop design.
+- 📡 Improving AI application **scalability, observability, and backend reliability**.
 
 ---
 
@@ -234,22 +227,13 @@ certifications:
 
 ---
 
-## 🎯 Currently Focused On
-
-- [ ] Deepening **multi-agent orchestration** and human-in-the-loop workflows.
-- [ ] Exploring more reliable **GraphRAG / CRAG** evaluation approaches.
-- [ ] Advancing the **Autonomous GenAI Software Engineering** project beyond its initial PM Agent phase.
-- [ ] Improving AI application **scalability, observability, and backend reliability**.
-
----
-
 <div align="center">
 
-### Let's Build Intelligent Systems Together 🚀
+## 🤝 Let's Build Something Reliable
 
-*Interested in collaborating on AI engineering, retrieval systems, agentic workflows, and backend applications.*
+*Open to collaborating on AI engineering, retrieval systems, agentic workflows, and backend applications.*
 
-[![GitHub](https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GovindGoel1401?tab=repositories)
+[![Projects](https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GovindGoel1401?tab=repositories)
 [![Email](https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goyalgovind1401@gmail.com)
 
 </div>
