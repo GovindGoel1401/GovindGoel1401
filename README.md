@@ -1,132 +1,134 @@
+<!-- GitHub Profile README • GovindGoel1401 -->
+<!-- Keep this file named README.md in the public repository GovindGoel1401/GovindGoel1401. -->
+
 <div align="center">
 
-# Govind Goel
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:070E20,50:123B65,100:06B6D4&text=GOVIND%20GOEL&fontColor=FFFFFF&fontSize=52&fontAlignY=39&desc=AI%20%2F%20GenAI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Backend%20Engineering&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Govind Goel — AI / GenAI Engineer" />
 
-### AI / GenAI Engineer · Multi-Agent Systems · RAG & GraphRAG · Backend
-
-*I build LLM systems that show their evidence, verify their answers, and ship behind real APIs.*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=800&lines=Grounded+LLM+applications%2C+not+just+chatbots;RAG+%7C+GraphRAG+%7C+CRAG+%7C+LangGraph;Python+%7C+FastAPI+%7C+Neo4j+%7C+Vector+Databases;From+AI+research+to+working+backend+systems)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1100&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+AI+that+retrieves%2C+reasons+%26+acts;Multi-Agent+Workflows+%7C+RAG+%7C+GraphRAG+%7C+CRAG;LangGraph+%7C+FastAPI+%7C+Neo4j+%7C+Vector+Search;From+intelligent+prototypes+to+reliable+systems" alt="Typing introduction" /></a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GovindGoel1401)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goyalgovind1401@gmail.com)
-[![GATE](https://img.shields.io/badge/GATE-Qualified_2026-0B7285?style=for-the-badge)](#-achievements--certifications)
-[![AWS AI](https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](#-achievements--certifications)
-[![Profile Views](https://komarev.com/ghpvc/?username=GovindGoel1401&color=00b4d8&style=for-the-badge&label=Profile+Views)](https://github.com/GovindGoel1401)
+<a href="https://github.com/GovindGoel1401"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:goyalgovind1401@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/Explore_Projects-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" alt="Featured projects" /></a>
+<a href="#-achievements--certifications"><img src="https://img.shields.io/badge/GATE_Qualified-2026-14B8A6?style=for-the-badge" alt="GATE Qualified 2026" /></a>
 
-**[Projects](#-featured-projects) · [Skills](#%EF%B8%8F-tech-stack) · [Experience](#-experience) · [Contact](#-lets-build-something-reliable)**
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=GovindGoel1401&label=PROFILE%20VIEWS&color=0891b2&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/Focus-Reliable_AI_Systems-7C3AED?style=flat-square" alt="Reliable AI systems" />
+<img src="https://img.shields.io/badge/Based_in-India-334155?style=flat-square" alt="Based in India" />
 
 </div>
 
 ---
 
-## ⚡ At a Glance
+## 👨‍💻 The engineer behind the prompts
 
-| | |
-|---|---|
-| 🧠 **What I do** | Design retrieval pipelines, multi-agent workflows, and backend APIs that make LLM output trustworthy |
-| 🔬 **Core ideas** | Hybrid vector + graph retrieval · corrective RAG · human-in-the-loop agents · stateful, resumable workflows |
-| 🎓 **Education** | B.Tech, KIET Group of Institutions · CGPA **8.3 / 10** (2023 – Present) |
-| 🏅 **Credentials** | GATE 2026 Qualified · AWS Certified Cloud Practitioner · AWS Certified AI Practitioner |
-| 💼 **Experience** | Backend & AI Intern @ Techsage (Nov 2025 – Jan 2026) |
-| 🔭 **Exploring** | Autonomous software-engineering agents · evaluation of GraphRAG/CRAG · AI observability |
+I'm **Govind Goel**, an **AI / GenAI Engineer** interested in what happens *after* an LLM generates its first answer: **retrieval quality, reasoning workflows, validation, context management, and reliable backend integration**.
 
-> **My thesis:** an LLM answer is only as useful as the evidence behind it. I focus on the layer around the model: retrieval that finds the right context, agents that know when to ask, verify, and correct, and backend services that turn it all into a product.
+I build and explore systems that combine **LLMs + agents + knowledge graphs + vector databases** to solve practical problems, from legal research and plant intelligence to cloud-based document Q&A and autonomous software-engineering workflows.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔭 What I'm working on**
+
+- Agentic software-development workflows
+- RAG, GraphRAG & corrective retrieval
+- Human-in-the-loop AI orchestration
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ Quick facts**
+
+- 🎓 B.Tech · KIET Group of Institutions
+- 💼 Former Backend & AI Intern · Techsage
+- 🏅 GATE Qualified · 2026
+- ☁️ AWS Cloud + AI Practitioner certified
+
+</td>
+</tr>
+</table>
+
+## 🧠 What I love engineering
+
+| Area | What I focus on |
+|:--|:--|
+| 🤖 **Agentic AI** | LangGraph workflows, agent coordination, conditional routing, human-in-the-loop decisions |
+| 🔎 **Grounded generation** | RAG, GraphRAG, CRAG, hybrid retrieval and knowledge-backed responses |
+| 🕸️ **Knowledge intelligence** | Neo4j relationships, vector similarity search, multi-stage context assembly |
+| ⚙️ **Backend engineering** | Python, FastAPI, APIs, data handling, and AI service integration |
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⚖️ JurisMind AI: Legal Reasoning & Decision Intelligence
+### 01 · 🤖 Autonomous GenAI Software Engineering System
 
-> A multi-agent platform for legal document understanding, evidence analysis, research, and structured argumentation.
+<a href="https://github.com/GovindGoel1401/Autonomous-GenAI-Software-Engineering-System-Multi-Agent-AI-Platform-"><img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View autonomous software engineering project" /></a>
+<img src="https://img.shields.io/badge/STATUS-Phase_1_Implemented-0F766E?style=for-the-badge" alt="Phase 1 implemented" />
 
-**Stack:** `Python` `FastAPI` `LangGraph` `LLM APIs` `Vector Databases`
+**The idea:** Convert natural-language software requirements into structured engineering specifications as the first step toward a collaborative AI development team.
 
-```mermaid
-flowchart LR
-    A[Case Documents] --> B[Retrieval Router]
-    B -->|needs context| C[Vector Retrieval]
-    B -->|already sufficient| E
-    C --> D[Knowledge Context]
-    D --> E[Reasoning Agents]
-    E --> F[Evidence Analysis]
-    F --> G[Structured Legal Output]
-```
-
-- **Orchestrated** specialized reasoning agents (case interpretation, evidence analysis, response assembly) with **LangGraph**.
-- **Dynamic retrieval routing** skips unnecessary retrieval steps to cut redundant processing.
-- **Grounded outputs** by combining vector search with structured knowledge context.
-
----
-
-### 🌿 Deepleaf: GraphRAG Plant Intelligence System
-
-> Semantic retrieval plus knowledge-graph reasoning for precise, explainable plant recommendations.
-
-**Stack:** `GraphRAG` `CRAG` `Neo4j` `Vector Databases` `Knowledge Graphs`
+`LangGraph` `Gemini API` `Node.js` `JavaScript` `State Checkpointing`
 
 ```mermaid
 flowchart LR
-    Q[User Query] --> V[Vector Similarity Search]
-    Q --> G[Neo4j Graph Traversal]
-    V --> M[Context Fusion]
-    G --> M
-    M --> L[LLM Generation]
-    L --> C{CRAG Validation}
-    C -->|supported| R[Final Answer]
-    C -->|unsupported| X[Corrective Retrieval] --> M
+    A[Software requirement] --> B[PM Agent]
+    B --> C{Need clarification?}
+    C -->|Yes| D[Human input]
+    D --> B
+    C -->|No| E[Structured project specification]
+    E --> F[Token usage summary]
 ```
 
-- **Hybrid retrieval:** embeddings for semantic match, graph relationships for entity-level reasoning.
-- **Corrective RAG (CRAG)** validates and repairs answers to reduce unsupported claims.
-- 📈 **~20–25% improvement in response reliability** over the baseline pipeline.
+**What's implemented / documented in Phase 1**
+
+- **PM Agent:** turns a requirement into a structured project specification.
+- **Human-in-the-loop:** asks clarifying questions instead of making silent assumptions.
+- **Stateful graph:** conditional routing and checkpointing via memory or optional Redis.
+- **Testing & visibility:** graph mock tests, PM-agent test commands, and Gemini token tracking.
+
+> **Roadmap, not a finished claim:** Architect, planner, coder, reviewer, debugger, deployment, and full dashboard phases are described as future work in the repository.
 
 ---
 
-### 🤖 Autonomous GenAI Software Engineering System
+### 02 · ⚖️ JurisMind AI — Legal Reasoning & Decision Intelligence
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GovindGoel1401/Autonomous-GenAI-Software-Engineering-System-Multi-Agent-AI-Platform-)
+**Multi-agent legal intelligence** for document understanding, evidence analysis, research, and structured reasoning.
 
-> A multi-agent system that turns natural-language requirements into engineering specifications, built to grow into a full idea-to-deployment pipeline.
+`LangGraph` `FastAPI` `LLM APIs` `Vector Databases` `Hybrid Retrieval`
 
-**Stack:** `Node.js` `LangGraph` `Gemini API` `JavaScript` `State Checkpointing` `Redis`
+- Designed **multi-agent workflows** with dynamic retrieval routing to avoid unnecessary processing.
+- Combined **vector-based search and knowledge-based context** for better grounding.
+- Focused on **context-aware outputs, workflow efficiency, and layered legal reasoning**.
 
-```mermaid
-flowchart LR
-    R[Requirement] --> PM[PM Agent]
-    PM -->|ambiguous| H[Human Clarification]
-    H --> PM
-    PM -->|clear| S[Structured Specification]
-    S -.-> AR[Architect]
-    AR -.-> CO[Coder]
-    CO -.-> RV[Reviewer]
-    RV -.-> DB[Debugger]
-    DB -.-> DP[Deploy]
-```
+### 03 · 🌿 Deepleaf — GraphRAG Plant Intelligence
 
-<sub>Solid lines: implemented (Phase 1). Dotted lines: roadmap.</sub>
+**Knowledge-driven plant intelligence** combining graph relationships with semantic retrieval.
 
-- **Human-in-the-loop routing:** the graph asks clarifying questions before committing to a spec.
-- **Resumable execution** via checkpointing (in-memory or Redis) so interrupted runs can continue.
-- **Cost awareness** through Gemini token-usage tracking.
-- **Clean architecture:** agents communicate through shared graph state, not direct node-to-node calls.
-- **Tested:** graph-skeleton mock tests plus PM-Agent integration tests.
+`Neo4j` `GraphRAG` `CRAG` `Vector Databases` `Knowledge Graphs`
 
----
+- Built multi-stage retrieval combining **embedding similarity** with **graph traversal**.
+- Added **corrective retrieval / validation** to challenge unsupported model answers.
+- The project results reported in my resume indicate a **20–25% reliability improvement**.
 
-### ☁️ IBM Cloud Object Storage Q&A Assistant
+### 04 · ☁️ IBM Cloud Object Storage Q&A Assistant
 
-> Cloud-backed file storage with a conversational assistant for asking questions about stored documents.
+**Cloud-backed document Q&A** connecting object storage with contextual chatbot interactions.
 
-**Stack:** `IBM Cloud` `Cloud Object Storage` `IBM watsonx` `IAM`
+`IBM Cloud` `Cloud Object Storage` `IBM watsonx` `IAM`
 
-- Uploads and manages files in **IBM Cloud Object Storage** with a structured indexing workflow for discovery.
-- **watsonx chatbot** answers context-aware questions about stored files.
-- **IAM-based access control** protects cloud resources.
-- 🏆 Recognized as **Top Performer** in the IBM Cloud Virtual Internship.
+- Stored and accessed files through **IBM Cloud Object Storage**.
+- Integrated an **IBM watsonx chatbot** for context-aware document questions.
+- Used **IAM-based access controls** and structured file-indexing workflows.
+
+> 💡 **Project-first portfolio:** I value clear architectures, useful retrieval, and systems that can explain where their answers come from.
 
 ---
 
@@ -134,41 +136,38 @@ flowchart LR
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages & APIs**
 
-### AI, LLMs & Agentic Systems
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-222222?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-0077B6?style=for-the-badge)
-![GraphRAG](https://img.shields.io/badge/GraphRAG-5A189A?style=for-the-badge)
-![CRAG](https://img.shields.io/badge/Corrective_RAG-6A4C93?style=for-the-badge)
-![Multi-Agent AI](https://img.shields.io/badge/Multi--Agent_AI-007F86?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM_Pipelines-414141?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-3D5A80?style=for-the-badge)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-0B7285?style=for-the-badge)
+**GenAI & Orchestration**
 
-### Data, Search & Knowledge Graphs
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-111111?style=for-the-badge)
-![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-1D3557?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge" alt="LangGraph" />
+<img src="https://img.shields.io/badge/RAG-075985?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/GraphRAG-6D28D9?style=for-the-badge" alt="GraphRAG" />
+<img src="https://img.shields.io/badge/CRAG-0F766E?style=for-the-badge" alt="CRAG" />
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-1D4ED8?style=for-the-badge" alt="Multi-Agent Systems" />
 
-### Cloud & Developer Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Data & Retrieval**
+
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+<img src="https://img.shields.io/badge/Pinecone-111827?style=for-the-badge" alt="Pinecone" />
+<img src="https://img.shields.io/badge/Chroma-7C3AED?style=for-the-badge" alt="Chroma" />
+<img src="https://img.shields.io/badge/FAISS-334155?style=for-the-badge" alt="FAISS" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+
+**Cloud & Tools**
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white" alt="IBM Cloud" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
 </div>
 
@@ -176,50 +175,34 @@ flowchart LR
 
 ## 💼 Experience
 
-### Backend & AI Intern · Techsage
+**Backend & AI Intern — Techsage**  
 `Nov 2025 – Jan 2026`
 
-- Built and tested backend features covering **API integration, database operations, and HTTP request handling** for internal applications.
-- Implemented **RAG-based features** (document retrieval and context-aware response generation), bridging backend services with working AI functionality.
-
----
+- Built and tested backend functionality including **API integrations, database operations, and request handling**.
+- Implemented introductory **RAG-based features** involving document retrieval and context-based response generation.
 
 ## 🏆 Achievements & Certifications
 
-| | |
-|---|---|
-| 🎯 **GATE 2026** | Qualified |
-| ☁️ **AWS Certified Cloud Practitioner** | Cloud fundamentals |
-| 🤖 **AWS Certified AI Practitioner** | AI/ML and GenAI on AWS |
-| 🌟 **IBM Cloud Virtual Internship** | Top Performer |
-| 📘 **Data Structures & Algorithms** | Udemy |
+| Credential | Detail |
+|:--|:--|
+| 🎯 **GATE** | Qualified · 2026 |
+| ☁️ **AWS** | Certified Cloud Practitioner |
+| 🤖 **AWS** | Certified AI Practitioner |
+| 🌟 **IBM Cloud** | Virtual Internship · Top Performer |
+| 📚 **DSA** | Udemy certification |
+
+**Education:** B.Tech, **KIET Group of Institutions** (2023–Present) · **CGPA 8.3/10**
 
 ---
 
-## 🎓 Education
-
-**KIET Group of Institutions**: B.Tech · `2023 – Present` · CGPA **8.3 / 10**
-**Dehradun Public School**: Higher Secondary · `2022 – 2023` · **88.2%**
-
----
-
-## 🧭 What I'm Working Toward
-
-- 🔄 Taking the **Autonomous Software Engineering** system beyond Phase 1: Architect, Coder, Reviewer, Debugger, and Deploy agents.
-- 📏 Building better **evaluation methods for GraphRAG / CRAG** pipelines.
-- 🤝 Deepening **multi-agent orchestration** and human-in-the-loop design.
-- 📡 Improving AI application **scalability, observability, and backend reliability**.
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GovindGoel1401&show_icons=true&theme=tokyonight&hide_border=true" alt="Govind's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindGoel1401&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=GovindGoel1401&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub activity statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindGoel1401&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Languages used in GitHub repositories" />
 
-<br/>
+<br />
 
 <img src="https://streak-stats.demolab.com?user=GovindGoel1401&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
@@ -229,11 +212,17 @@ flowchart LR
 
 <div align="center">
 
-## 🤝 Let's Build Something Reliable
+### ✨ Build intelligence. Ground answers. Ship thoughtfully.
 
-*Open to collaborating on AI engineering, retrieval systems, agentic workflows, and backend applications.*
+**Interested in AI engineering, agentic workflows, knowledge graphs, and practical backend systems?**
 
-[![Projects](https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GovindGoel1401?tab=repositories)
-[![Email](https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goyalgovind1401@gmail.com)
+<a href="mailto:goyalgovind1401@gmail.com"><img src="https://img.shields.io/badge/LET'S_CONNECT-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's connect by email" /></a>
+<a href="https://github.com/GovindGoel1401?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" /></a>
+
+<br />
+
+<sub>Made with curiosity, code, and a healthy respect for evaluation. ✦</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,100:070E20" width="100%" alt="Decorative footer" />
 
 </div>
